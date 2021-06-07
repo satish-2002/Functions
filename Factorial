@@ -12,5 +12,5 @@ int main()
 	int n;
 	cout<<"Enter a number to find factorial:";
 	cin>>n;
-	cout<<fact(n);
+	cout<<"Factorial of "<<n << " is :" <<fact(n);
 }
